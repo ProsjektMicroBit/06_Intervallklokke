@@ -2,7 +2,7 @@
 
 Overfør hex-fila til micro:biten og microbiten kan nå brukes som ei intervallklokke. Den kjører nå 4x4 intervaller, klarer du kode noen andre?
 
-#Utstyrsliste:
+# Utstyrsliste:
 - micro:bit
 - batteriholder til 2xAAA, 2xAA eller 3V-knappcellebatteri
 - svettebånd eller lignende  (Vi har brukt https://www.xxl.no/nike-nike-swoosh-wristbands-svetteband-unisex/p/1126015_1_style )
